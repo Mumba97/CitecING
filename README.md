@@ -1,4 +1,4 @@
-CITECING
-
-prueba 1 de pagina web
+# CITECING
+Pruebas de sitio web
+aqui se montara pagina de prueba.
 
